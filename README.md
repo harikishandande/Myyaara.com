@@ -10,8 +10,7 @@ Our mission is to cater to all your needs in making it a memorable book for the 
 
 We have been responsible citizens and we therefore make you proud for your contribution. For every book you order, we contribute rs. 5 to the poor childrens education.
 
-<b><h4>Highlights:</b></h4>
-<b><h4>Below is the app specification:</b></h4>
+<b><h3>Highlights:</b></h3>
 <dl>
   <dt>BEST QUALITY</dt>
   <dd>Have you ever imagined yourself with your friends stacked together in a single book with abosulte finish and print? Yes, we provide highest quality print.</dd>
